@@ -1,0 +1,16 @@
+img文件夹：存放生成的图片
+cyshow.py：生成图片cyt.png
+imgshow.py：生成图片img2.png
+imgshow2.py：生成图片img3.png
+dfshow.py：读取图片
+news_sql.py：读取新闻数据库
+offer_data.py：读取岗位信息数据库
+spider_news.py：爬取企业新闻
+spider_offer.py：爬取岗位信息
+updata_news.py：更新数据
+Ui_dl.py：登录界面
+dl.ui：登陆界面（Qt格式)
+Ui_news.py：企业相关新闻界面
+news.ui：企业相关新闻界面（Qt格式)
+Ui_offer.py：岗位信息界面
+offer.ui：岗位信息界面（Qt格式)
